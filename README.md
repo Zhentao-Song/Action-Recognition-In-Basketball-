@@ -1,5 +1,5 @@
-# BasketBall-Video-Analysis
-##### This project aims to identify behavior in basketball videos
+# Action Recognition in Basketball
+##### This project aims to identify complex behavior in basketball videos，such as pass、assist
 
 ## reference
 + [SlowFast](https://github.com/facebookresearch/SlowFast)
